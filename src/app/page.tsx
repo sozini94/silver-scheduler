@@ -102,7 +102,7 @@ export default function Home() {
       <section className="hero noPrint">
         <p className="eyebrow">주간보호센터용</p>
         <h1>실버 프로그램 주간 수업표 생성기</h1>
-        <p className="heroText">하루 수업 횟수와 프로그램 종류를 선택하면 255개 프로그램 데이터에서 일주일 시간표를 자동 추천하고, 드래그로 직접 편집한 뒤 PDF로 저장할 수 있습니다.</p>
+        <p className="heroText">하루 수업 횟수와 프로그램 종류를 선택하면 510개 프로그램 데이터에서 일주일 시간표를 자동 추천하고, 드래그로 직접 편집한 뒤 PDF로 저장할 수 있습니다.</p>
       </section>
 
       <section className="panel controls noPrint">
