@@ -2,10 +2,6 @@ import { NextResponse } from "next/server";
 import { Program } from "@/data/programs";
 import { generateWorksheetWithAI } from "@/lib/worksheet-ai";
 import { createWorksheetPdf } from "@/lib/worksheet-pdf";
-import {
-  getCachedWorksheet,
-  setCachedWorksheet,
-} from "@/lib/worksheet-cache";
 
 export const runtime = "nodejs";
 
@@ -20,12 +16,8 @@ export async function POST(req: Request) {
       );
     }
 
-    let worksheet = await getCachedWorksheet(program.id);
-
-    if (!worksheet) {
-      worksheet = await generateWorksheetWithAI(program);
-      await setCachedWorksheet(program.id, worksheet);
-    }
+    const worksheet =
+        await generateWorksheetWithAI(program);
 
     const pdfBuffer = await createWorksheetPdf(worksheet);
 
