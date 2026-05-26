@@ -201,9 +201,9 @@ export default function Home() {
                       <p>{program.description}</p>
                       {program.goals && program.goals.length > 0 && (
                         <div className="mt-5 rounded-xl bg-[#faf7f2] px-5 py-4">
-                          <h3>
+                          <h4>
                             활동 목표
-                          </h3>
+                          </h4>
 
                           <ul className="space-y-2">
                             {program.goals.map((goal, index) => (
