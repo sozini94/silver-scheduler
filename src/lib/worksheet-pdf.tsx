@@ -9,11 +9,16 @@ import {
     renderToBuffer,
   } from "@react-pdf/renderer";
 import { Worksheet } from "@/types/worksheet";
+import path from "path";
+
 
 Font.register({
     family: "NotoSansKR",
-    src: `${process.cwd()}/public/fonts/NotoSansKR-Regular.ttf`,
-});
+    src: path.join(
+      process.cwd(),
+      "public/fonts/NotoSansKR-Regular.ttf"
+    ),
+  });
 const styles = StyleSheet.create({
   page: {
     padding: 32,
