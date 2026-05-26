@@ -199,6 +199,31 @@ export default function Home() {
                       </div>
                       <h3>{program.title}</h3>
                       <p>{program.description}</p>
+                      {program.goals && program.goals.length > 0 && (
+                        <div className="mt-5 rounded-xl bg-[#faf7f2] px-5 py-4">
+                          <h3>
+                            활동 목표
+                          </h3>
+
+                          <ul className="space-y-2">
+                            {program.goals.map((goal, index) => (
+                              <li
+                                key={index}
+                                className="
+                                  relative
+                                  pl-4
+                                  text-[14px]
+                                  leading-[1.8]
+                                  tracking-[-0.01em]
+                                  text-[#6b5a4a]
+                                "
+                              >
+                                <p>{goal}</p>
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
                       <small>{program.duration}분 · {program.difficulty} · {program.mobility}</small>
                       <small>준비물: {program.materials.join(', ')}</small>
                       <select

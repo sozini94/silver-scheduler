@@ -47,6 +47,7 @@ h3 { margin: 10px 0 8px; font-size: 18px; }
 .programCard small { display: block; color: #7b6a58; line-height: 1.45; }
 .replaceSelect { width: 100%; margin-top: 12px; min-height: 38px; font-size: 13px; margin-bottom: 10px;}
 .printOnly { display: none; }
+.space-y-2 { padding-left: 2em;}
 
 @media (max-width: 980px) {
   .controls { grid-template-columns: 1fr 1fr; }
