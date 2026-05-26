@@ -1440,6 +1440,1007 @@ export const programs: Program[] = [
     "description": "그림 낱말 연결 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
   },
   {
+    "id": "P262",
+    "category": "인지",
+    "title": "과일 분류 게임",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "색연필",
+      "그림카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "과일 분류 게임 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P263",
+    "category": "인지",
+    "title": "숨은 단어 찾기",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "그림카드",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "숨은 단어 찾기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P264",
+    "category": "인지",
+    "title": "옛날 광고 맞히기",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "숫자카드",
+      "활동지",
+      "색연필",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "옛날 광고 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P265",
+    "category": "인지",
+    "title": "문장 완성 놀이",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "그림카드",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "문장 완성 놀이 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P266",
+    "category": "인지",
+    "title": "가족사진 이야기",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "색연필",
+      "그림카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "가족사진 이야기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P267",
+    "category": "인지",
+    "title": "한글 따라쓰기",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "그림카드",
+      "낱말카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "한글 따라쓰기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P268",
+    "category": "인지",
+    "title": "숫자 계산 카드",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "색연필",
+      "낱말카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "숫자 계산 카드 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P269",
+    "category": "인지",
+    "title": "요일 카드 배열",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "그림카드",
+      "숫자카드",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "요일 카드 배열 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P270",
+    "category": "인지",
+    "title": "나라 이름 맞히기",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "색연필",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "나라 이름 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P271",
+    "category": "인지",
+    "title": "사물 위치 기억",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "색연필",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "사물 위치 기억 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P272",
+    "category": "인지",
+    "title": "단어 순서 배열",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "활동지",
+      "그림카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "단어 순서 배열 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P273",
+    "category": "인지",
+    "title": "기억 상자 놀이",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "그림카드",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "기억 상자 놀이 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P274",
+    "category": "인지",
+    "title": "퍼즐 조각 맞추기",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "그림카드",
+      "숫자카드",
+      "색연필",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "퍼즐 조각 맞추기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P275",
+    "category": "인지",
+    "title": "문장 따라 읽기",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "그림카드",
+      "색연필",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "문장 따라 읽기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P276",
+    "category": "인지",
+    "title": "전화번호 이어말하기",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "숫자카드",
+      "그림카드",
+      "색연필",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "전화번호 이어말하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P277",
+    "category": "인지",
+    "title": "계절 음식 맞히기",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "숫자카드",
+      "그림카드",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "계절 음식 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P278",
+    "category": "인지",
+    "title": "모양 연결하기",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "활동지",
+      "색연필",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "모양 연결하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P279",
+    "category": "인지",
+    "title": "색칠 순서 기억",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "색연필",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "색칠 순서 기억 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P280",
+    "category": "인지",
+    "title": "초성 퀴즈",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "낱말카드",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "초성 퀴즈 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  
+  {
+    "id": "P406",
+    "category": "인지",
+    "title": "초성 이어 말하기 응용",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "그림카드",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "초성 이어 말하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P407",
+    "category": "인지",
+    "title": "동물 소리 맞히기 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "숫자카드",
+      "색연필",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "동물 소리 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P408",
+    "category": "인지",
+    "title": "색깔 기억 게임 응용",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "그림카드",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "색깔 기억 게임 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P409",
+    "category": "인지",
+    "title": "지도 보고 길 찾기 응용",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "그림카드",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "지도 보고 길 찾기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P410",
+    "category": "인지",
+    "title": "단어 이어쓰기 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "색연필",
+      "그림카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "단어 이어쓰기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P411",
+    "category": "인지",
+    "title": "숫자 짝 맞추기 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "그림카드",
+      "낱말카드",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "숫자 짝 맞추기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P412",
+    "category": "인지",
+    "title": "과일 분류 게임 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "색연필",
+      "그림카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "과일 분류 게임 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P413",
+    "category": "인지",
+    "title": "숨은 단어 찾기 응용",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "그림카드",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "숨은 단어 찾기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P414",
+    "category": "인지",
+    "title": "옛날 광고 맞히기 응용",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "숫자카드",
+      "활동지",
+      "색연필",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "옛날 광고 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P415",
+    "category": "인지",
+    "title": "문장 완성 놀이 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "그림카드",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "문장 완성 놀이 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P416",
+    "category": "인지",
+    "title": "가족사진 이야기 응용",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "색연필",
+      "그림카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "가족사진 이야기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P417",
+    "category": "인지",
+    "title": "한글 따라쓰기 응용",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "그림카드",
+      "낱말카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "한글 따라쓰기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P418",
+    "category": "인지",
+    "title": "숫자 계산 카드 응용",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "색연필",
+      "낱말카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "숫자 계산 카드 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P419",
+    "category": "인지",
+    "title": "요일 카드 배열 응용",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "그림카드",
+      "숫자카드",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "요일 카드 배열 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P420",
+    "category": "인지",
+    "title": "나라 이름 맞히기 응용",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "색연필",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "나라 이름 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P421",
+    "category": "인지",
+    "title": "사물 위치 기억 응용",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "색연필",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "사물 위치 기억 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P422",
+    "category": "인지",
+    "title": "단어 순서 배열 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "활동지",
+      "그림카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "단어 순서 배열 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P423",
+    "category": "인지",
+    "title": "기억 상자 놀이 응용",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "그림카드",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "기억 상자 놀이 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P424",
+    "category": "인지",
+    "title": "퍼즐 조각 맞추기 응용",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "그림카드",
+      "숫자카드",
+      "색연필",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "퍼즐 조각 맞추기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P425",
+    "category": "인지",
+    "title": "문장 따라 읽기 응용",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "그림카드",
+      "색연필",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "문장 따라 읽기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P426",
+    "category": "인지",
+    "title": "전화번호 이어말하기 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "숫자카드",
+      "그림카드",
+      "색연필",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "전화번호 이어말하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P427",
+    "category": "인지",
+    "title": "계절 음식 맞히기 응용",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "숫자카드",
+      "그림카드",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "계절 음식 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P428",
+    "category": "인지",
+    "title": "모양 연결하기 응용",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "활동지",
+      "색연필",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "모양 연결하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P429",
+    "category": "인지",
+    "title": "색칠 순서 기억 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "색연필",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "색칠 순서 기억 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P430",
+    "category": "인지",
+    "title": "초성 퀴즈 응용",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "낱말카드",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "초성 퀴즈 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P256",
+    "category": "인지",
+    "title": "초성 이어 말하기",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "그림카드",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "초성 이어 말하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P257",
+    "category": "인지",
+    "title": "동물 소리 맞히기",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "숫자카드",
+      "색연필",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "동물 소리 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P258",
+    "category": "인지",
+    "title": "색깔 기억 게임",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "낱말카드",
+      "그림카드",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "색깔 기억 게임 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P259",
+    "category": "인지",
+    "title": "지도 보고 길 찾기",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "그림카드",
+      "숫자카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "지도 보고 길 찾기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P260",
+    "category": "인지",
+    "title": "단어 이어쓰기",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "활동지",
+      "색연필",
+      "그림카드",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "단어 이어쓰기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
+    "id": "P261",
+    "category": "인지",
+    "title": "숫자 짝 맞추기",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "그림카드",
+      "낱말카드",
+      "활동지",
+    ],
+    "tags": [
+      "치매예방",
+      "언어",
+      "집중력",
+    ],
+    "recommendedTime": "오전",
+    "description": "숫자 짝 맞추기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+  },
+  {
     "id": "P071",
     "category": "신체",
     "title": "의자 체조",
@@ -2440,6 +3441,506 @@ export const programs: Program[] = [
     "description": "스트레칭 명상 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
   },
   {
+    "id": "P286",
+    "category": "신체",
+    "title": "발바닥 자극 운동",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "풍선",
+      "공",
+      "밴드",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "발바닥 자극 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P287",
+    "category": "신체",
+    "title": "풍선 릴레이",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "풍선",
+      "의자",
+      "공",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "풍선 릴레이 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P288",
+    "category": "신체",
+    "title": "리본 체조",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "수건",
+      "밴드",
+      "공",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "리본 체조 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P289",
+    "category": "신체",
+    "title": "짝꿍 스트레칭",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "의자",
+      "풍선",
+      "공",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "짝꿍 스트레칭 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P290",
+    "category": "신체",
+    "title": "리듬 걷기",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "밴드",
+      "풍선",
+      "수건",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "리듬 걷기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P291",
+    "category": "신체",
+    "title": "손가락 악력 훈련",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "수건",
+      "풍선",
+      "밴드",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "손가락 악력 훈련 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P292",
+    "category": "신체",
+    "title": "제자리 발구르기",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "의자",
+      "풍선",
+      "밴드",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "제자리 발구르기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P293",
+    "category": "신체",
+    "title": "가벼운 체조",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "풍선",
+      "의자",
+      "밴드",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "가벼운 체조 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P294",
+    "category": "신체",
+    "title": "팔 들어올리기",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "의자",
+      "공",
+      "수건",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "팔 들어올리기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P295",
+    "category": "신체",
+    "title": "앉아서 발차기",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "밴드",
+      "공",
+      "의자",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "앉아서 발차기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P296",
+    "category": "신체",
+    "title": "공 튕기기",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "수건",
+      "풍선",
+      "공",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "공 튕기기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P297",
+    "category": "신체",
+    "title": "균형 쿠션 운동",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "의자",
+      "수건",
+      "밴드",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "균형 쿠션 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P298",
+    "category": "신체",
+    "title": "라인 넘기 게임",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "풍선",
+      "의자",
+      "수건",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "라인 넘기 게임 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P299",
+    "category": "신체",
+    "title": "풍선 전달 게임",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "밴드",
+      "의자",
+      "공",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "풍선 전달 게임 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P300",
+    "category": "신체",
+    "title": "하체 유연성 운동",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "공",
+      "수건",
+      "풍선",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "하체 유연성 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P301",
+    "category": "신체",
+    "title": "발끝 터치 운동",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "공",
+      "수건",
+      "풍선",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "발끝 터치 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P302",
+    "category": "신체",
+    "title": "허리 스트레칭",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "공",
+      "풍선",
+      "수건",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "허리 스트레칭 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P303",
+    "category": "신체",
+    "title": "짝꿍 공 패스",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "밴드",
+      "수건",
+      "공",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "짝꿍 공 패스 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P304",
+    "category": "신체",
+    "title": "양팔 벌리기",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "공",
+      "수건",
+      "의자",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "양팔 벌리기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P305",
+    "category": "신체",
+    "title": "건강 율동",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "의자",
+      "공",
+      "수건",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "건강 율동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P281",
+    "category": "신체",
+    "title": "공 굴리기 운동",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "풍선",
+      "수건",
+      "의자",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "공 굴리기 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P282",
+    "category": "신체",
+    "title": "어깨 스트레칭",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "공",
+      "의자",
+      "수건",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "어깨 스트레칭 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P283",
+    "category": "신체",
+    "title": "무릎 펴기 운동",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "밴드",
+      "공",
+      "풍선",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "무릎 펴기 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P284",
+    "category": "신체",
+    "title": "손수건 던지기",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "공",
+      "수건",
+      "의자",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "손수건 던지기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
+    "id": "P285",
+    "category": "신체",
+    "title": "의자 일어나기",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "밴드",
+      "공",
+      "풍선",
+    ],
+    "tags": [
+      "운동",
+      "근력",
+      "균형",
+    ],
+    "recommendedTime": "상시",
+    "description": "의자 일어나기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
+  },
+  {
     "id": "P121",
     "category": "정서",
     "title": "만다라 색칠",
@@ -3340,6 +4841,1006 @@ export const programs: Program[] = [
     "description": "추억 앨범 만들기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
   },
   {
+    "id": "P306",
+    "category": "정서",
+    "title": "추억 그림 그리기",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "도화지",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "추억 그림 그리기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P307",
+    "category": "정서",
+    "title": "좋아하는 노래 부르기",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "도화지",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "좋아하는 노래 부르기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P308",
+    "category": "정서",
+    "title": "희망 카드 쓰기",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "꽃재료",
+      "음악",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "희망 카드 쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P309",
+    "category": "정서",
+    "title": "꽃 향기 체험",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "꽃 향기 체험 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P310",
+    "category": "정서",
+    "title": "마음 표현 색칠",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "도화지",
+      "스티커",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "마음 표현 색칠 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P311",
+    "category": "정서",
+    "title": "편안한 음악 듣기",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "도화지",
+      "스티커",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "편안한 음악 듣기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P312",
+    "category": "정서",
+    "title": "감사 일기 쓰기",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "꽃재료",
+      "음악",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "감사 일기 쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P313",
+    "category": "정서",
+    "title": "행복 나누기",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "꽃재료",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "행복 나누기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P314",
+    "category": "정서",
+    "title": "자연 풍경 감상",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "음악",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "자연 풍경 감상 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P315",
+    "category": "정서",
+    "title": "좋아하는 장소 이야기",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "도화지",
+      "음악",
+      "스티커",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "좋아하는 장소 이야기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P316",
+    "category": "정서",
+    "title": "감정 스티커 붙이기",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "음악",
+      "도화지",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "감정 스티커 붙이기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P317",
+    "category": "정서",
+    "title": "추억 사진 보기",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "꽃재료",
+      "색연필",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "추억 사진 보기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P318",
+    "category": "정서",
+    "title": "응원 메시지 만들기",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "응원 메시지 만들기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P319",
+    "category": "정서",
+    "title": "미소 연습",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "미소 연습 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P320",
+    "category": "정서",
+    "title": "명언 따라쓰기",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "음악",
+      "색연필",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "명언 따라쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P321",
+    "category": "정서",
+    "title": "손편지 꾸미기",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "꽃재료",
+      "도화지",
+      "음악",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "손편지 꾸미기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P322",
+    "category": "정서",
+    "title": "좋아하는 색 표현",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "음악",
+      "꽃재료",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "좋아하는 색 표현 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P323",
+    "category": "정서",
+    "title": "오늘 기분 이야기",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "음악",
+      "꽃재료",
+      "색연필",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "오늘 기분 이야기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P324",
+    "category": "정서",
+    "title": "감정 표현 카드",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "음악",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "감정 표현 카드 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P325",
+    "category": "정서",
+    "title": "좋은 기억 회상",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "좋은 기억 회상 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P326",
+    "category": "정서",
+    "title": "힐링 음악 시간",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "꽃재료",
+      "스티커",
+      "음악",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "힐링 음악 시간 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P327",
+    "category": "정서",
+    "title": "캔들 꾸미기",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "음악",
+      "스티커",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "캔들 꾸미기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P328",
+    "category": "정서",
+    "title": "감사 표현 놀이",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "감사 표현 놀이 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P329",
+    "category": "정서",
+    "title": "나의 장점 적기",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "나의 장점 적기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P330",
+    "category": "정서",
+    "title": "소망 그림 그리기",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "색연필",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "소망 그림 그리기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P456",
+    "category": "정서",
+    "title": "추억 그림 그리기 응용",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "도화지",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "추억 그림 그리기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P457",
+    "category": "정서",
+    "title": "좋아하는 노래 부르기 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "도화지",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "좋아하는 노래 부르기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P458",
+    "category": "정서",
+    "title": "희망 카드 쓰기 응용",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "꽃재료",
+      "음악",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "희망 카드 쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P459",
+    "category": "정서",
+    "title": "꽃 향기 체험 응용",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "꽃 향기 체험 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P460",
+    "category": "정서",
+    "title": "마음 표현 색칠 응용",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "도화지",
+      "스티커",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "마음 표현 색칠 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P461",
+    "category": "정서",
+    "title": "편안한 음악 듣기 응용",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "도화지",
+      "스티커",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "편안한 음악 듣기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P462",
+    "category": "정서",
+    "title": "감사 일기 쓰기 응용",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "꽃재료",
+      "음악",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "감사 일기 쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P463",
+    "category": "정서",
+    "title": "행복 나누기 응용",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "꽃재료",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "행복 나누기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P464",
+    "category": "정서",
+    "title": "자연 풍경 감상 응용",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "음악",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "자연 풍경 감상 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P465",
+    "category": "정서",
+    "title": "좋아하는 장소 이야기 응용",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "도화지",
+      "음악",
+      "스티커",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "좋아하는 장소 이야기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P466",
+    "category": "정서",
+    "title": "감정 스티커 붙이기 응용",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "음악",
+      "도화지",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "감정 스티커 붙이기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P467",
+    "category": "정서",
+    "title": "추억 사진 보기 응용",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "꽃재료",
+      "색연필",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "추억 사진 보기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P468",
+    "category": "정서",
+    "title": "응원 메시지 만들기 응용",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "응원 메시지 만들기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P469",
+    "category": "정서",
+    "title": "미소 연습 응용",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "미소 연습 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P470",
+    "category": "정서",
+    "title": "명언 따라쓰기 응용",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "음악",
+      "색연필",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "명언 따라쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P471",
+    "category": "정서",
+    "title": "손편지 꾸미기 응용",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "꽃재료",
+      "도화지",
+      "음악",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "손편지 꾸미기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P472",
+    "category": "정서",
+    "title": "좋아하는 색 표현 응용",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "음악",
+      "꽃재료",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "좋아하는 색 표현 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P473",
+    "category": "정서",
+    "title": "오늘 기분 이야기 응용",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "음악",
+      "꽃재료",
+      "색연필",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "오늘 기분 이야기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P474",
+    "category": "정서",
+    "title": "감정 표현 카드 응용",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "음악",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "감정 표현 카드 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P475",
+    "category": "정서",
+    "title": "좋은 기억 회상 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "좋은 기억 회상 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P476",
+    "category": "정서",
+    "title": "힐링 음악 시간 응용",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "꽃재료",
+      "스티커",
+      "음악",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "힐링 음악 시간 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P477",
+    "category": "정서",
+    "title": "캔들 꾸미기 응용",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "색연필",
+      "음악",
+      "스티커",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "캔들 꾸미기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P478",
+    "category": "정서",
+    "title": "감사 표현 놀이 응용",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "꽃재료",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "감사 표현 놀이 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P479",
+    "category": "정서",
+    "title": "나의 장점 적기 응용",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "도화지",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "나의 장점 적기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
+    "id": "P480",
+    "category": "정서",
+    "title": "소망 그림 그리기 응용",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "음악",
+      "색연필",
+    ],
+    "tags": [
+      "정서지원",
+      "표현",
+      "안정감",
+    ],
+    "recommendedTime": "오후",
+    "description": "소망 그림 그리기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+  },
+  {
     "id": "P166",
     "category": "사회성",
     "title": "팀별 윷놀이",
@@ -4040,6 +6541,1006 @@ export const programs: Program[] = [
     "description": "협동 종이탑 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
   },
   {
+    "id": "P331",
+    "category": "사회성",
+    "title": "팀별 퀴즈 대결",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "팀 표식",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "팀별 퀴즈 대결 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P332",
+    "category": "사회성",
+    "title": "짝꿍 자기소개",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "팀 표식",
+      "스티커",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "짝꿍 자기소개 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P333",
+    "category": "사회성",
+    "title": "공동 그림 완성",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "화이트보드",
+      "공",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "공동 그림 완성 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P334",
+    "category": "사회성",
+    "title": "친구 이름 기억하기",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "팀 표식",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "친구 이름 기억하기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P335",
+    "category": "사회성",
+    "title": "단체 율동",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "스티커",
+      "화이트보드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "단체 율동 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P336",
+    "category": "사회성",
+    "title": "협동 공 전달",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "화이트보드",
+      "게임카드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "협동 공 전달 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P337",
+    "category": "사회성",
+    "title": "웃음 릴레이",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "팀 표식",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "웃음 릴레이 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P338",
+    "category": "사회성",
+    "title": "함께 이야기 만들기",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "공",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "함께 이야기 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P339",
+    "category": "사회성",
+    "title": "역할 바꾸기 게임",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "공",
+      "팀 표식",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "역할 바꾸기 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P340",
+    "category": "사회성",
+    "title": "짝꿍 칭찬하기",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "팀 표식",
+      "화이트보드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "짝꿍 칭찬하기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P341",
+    "category": "사회성",
+    "title": "팀별 카드 맞추기",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "팀 표식",
+      "화이트보드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "팀별 카드 맞추기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P342",
+    "category": "사회성",
+    "title": "이름 부르기 게임",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "팀 표식",
+      "화이트보드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "이름 부르기 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P343",
+    "category": "사회성",
+    "title": "협동 풍선 게임",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "게임카드",
+      "팀 표식",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "협동 풍선 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P344",
+    "category": "사회성",
+    "title": "사진 이야기 나누기",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "화이트보드",
+      "스티커",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "사진 이야기 나누기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P345",
+    "category": "사회성",
+    "title": "집단 박수 게임",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "게임카드",
+      "팀 표식",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "집단 박수 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P346",
+    "category": "사회성",
+    "title": "공동 작품 만들기",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "팀 표식",
+      "화이트보드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "공동 작품 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P347",
+    "category": "사회성",
+    "title": "짝꿍 인터뷰 놀이",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "팀 표식",
+      "스티커",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "짝꿍 인터뷰 놀이 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P348",
+    "category": "사회성",
+    "title": "팀 응원 만들기",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "팀 표식",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "팀 응원 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P349",
+    "category": "사회성",
+    "title": "친구 장점 발표",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "화이트보드",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "친구 장점 발표 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P350",
+    "category": "사회성",
+    "title": "릴레이 그림 그리기",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "팀 표식",
+      "게임카드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "릴레이 그림 그리기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P351",
+    "category": "사회성",
+    "title": "함께 노래 부르기",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "팀 표식",
+      "스티커",
+      "게임카드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "함께 노래 부르기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P352",
+    "category": "사회성",
+    "title": "미션 협동 게임",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "화이트보드",
+      "공",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "미션 협동 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P353",
+    "category": "사회성",
+    "title": "팀별 속담 맞히기",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "게임카드",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "팀별 속담 맞히기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P354",
+    "category": "사회성",
+    "title": "공동 퍼즐 완성",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "스티커",
+      "게임카드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "공동 퍼즐 완성 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P355",
+    "category": "사회성",
+    "title": "친구에게 편지쓰기",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "공",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "친구에게 편지쓰기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P481",
+    "category": "사회성",
+    "title": "팀별 퀴즈 대결 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "팀 표식",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "팀별 퀴즈 대결 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P482",
+    "category": "사회성",
+    "title": "짝꿍 자기소개 응용",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "팀 표식",
+      "스티커",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "짝꿍 자기소개 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P483",
+    "category": "사회성",
+    "title": "공동 그림 완성 응용",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "화이트보드",
+      "공",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "공동 그림 완성 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P484",
+    "category": "사회성",
+    "title": "친구 이름 기억하기 응용",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "팀 표식",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "친구 이름 기억하기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P485",
+    "category": "사회성",
+    "title": "단체 율동 응용",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "스티커",
+      "화이트보드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "단체 율동 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P486",
+    "category": "사회성",
+    "title": "협동 공 전달 응용",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "화이트보드",
+      "게임카드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "협동 공 전달 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P487",
+    "category": "사회성",
+    "title": "웃음 릴레이 응용",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "팀 표식",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "웃음 릴레이 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P488",
+    "category": "사회성",
+    "title": "함께 이야기 만들기 응용",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "공",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "함께 이야기 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P489",
+    "category": "사회성",
+    "title": "역할 바꾸기 게임 응용",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "공",
+      "팀 표식",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "역할 바꾸기 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P490",
+    "category": "사회성",
+    "title": "짝꿍 칭찬하기 응용",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "팀 표식",
+      "화이트보드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "짝꿍 칭찬하기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P491",
+    "category": "사회성",
+    "title": "팀별 카드 맞추기 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "팀 표식",
+      "화이트보드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "팀별 카드 맞추기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P492",
+    "category": "사회성",
+    "title": "이름 부르기 게임 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "팀 표식",
+      "화이트보드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "이름 부르기 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P493",
+    "category": "사회성",
+    "title": "협동 풍선 게임 응용",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "게임카드",
+      "팀 표식",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "협동 풍선 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P494",
+    "category": "사회성",
+    "title": "사진 이야기 나누기 응용",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "화이트보드",
+      "스티커",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "사진 이야기 나누기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P495",
+    "category": "사회성",
+    "title": "집단 박수 게임 응용",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "게임카드",
+      "팀 표식",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "집단 박수 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P496",
+    "category": "사회성",
+    "title": "공동 작품 만들기 응용",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "팀 표식",
+      "화이트보드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "공동 작품 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P497",
+    "category": "사회성",
+    "title": "짝꿍 인터뷰 놀이 응용",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "팀 표식",
+      "스티커",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "짝꿍 인터뷰 놀이 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P498",
+    "category": "사회성",
+    "title": "팀 응원 만들기 응용",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "팀 표식",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "팀 응원 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P499",
+    "category": "사회성",
+    "title": "친구 장점 발표 응용",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "화이트보드",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "친구 장점 발표 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P500",
+    "category": "사회성",
+    "title": "릴레이 그림 그리기 응용",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "팀 표식",
+      "게임카드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "릴레이 그림 그리기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P501",
+    "category": "사회성",
+    "title": "함께 노래 부르기 응용",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "팀 표식",
+      "스티커",
+      "게임카드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "함께 노래 부르기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P502",
+    "category": "사회성",
+    "title": "미션 협동 게임 응용",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "화이트보드",
+      "공",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "미션 협동 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P503",
+    "category": "사회성",
+    "title": "팀별 속담 맞히기 응용",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "스티커",
+      "게임카드",
+      "공",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "팀별 속담 맞히기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P504",
+    "category": "사회성",
+    "title": "공동 퍼즐 완성 응용",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "공",
+      "스티커",
+      "게임카드",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "공동 퍼즐 완성 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
+    "id": "P505",
+    "category": "사회성",
+    "title": "친구에게 편지쓰기 응용",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "게임카드",
+      "공",
+      "스티커",
+    ],
+    "tags": [
+      "사회성",
+      "협동",
+      "대화",
+    ],
+    "recommendedTime": "오후",
+    "description": "친구에게 편지쓰기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+  },
+  {
     "id": "P201",
     "category": "생활",
     "title": "손 씻기 교육",
@@ -4640,2506 +8141,6 @@ export const programs: Program[] = [
     "description": "지퍼 올리기 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
   },
   {
-    "id": "P231",
-    "category": "특별행사",
-    "title": "생신잔치",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "음악",
-      "카메라",
-      "현수막"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "생신잔치를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P232",
-    "category": "특별행사",
-    "title": "어버이날 행사",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "카메라",
-      "현수막",
-      "행사 소품"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "어버이날 행사를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P233",
-    "category": "특별행사",
-    "title": "명절 민속놀이",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "간식",
-      "현수막",
-      "음악"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "명절 민속놀이를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P234",
-    "category": "특별행사",
-    "title": "봄꽃 축제",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "행사 소품",
-      "간식",
-      "현수막"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "봄꽃 축제를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P235",
-    "category": "특별행사",
-    "title": "여름 수박 파티",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "음악",
-      "행사 소품",
-      "카메라"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "여름 수박 파티를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P236",
-    "category": "특별행사",
-    "title": "가을 운동회",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "카메라",
-      "행사 소품",
-      "간식"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "가을 운동회를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P237",
-    "category": "특별행사",
-    "title": "크리스마스 카드 만들기",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "행사 소품",
-      "간식",
-      "카메라"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "크리스마스 카드 만들기를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P238",
-    "category": "특별행사",
-    "title": "송년회",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "행사 소품",
-      "현수막",
-      "카메라"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "송년회를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P239",
-    "category": "특별행사",
-    "title": "가족 초청 행사",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "현수막",
-      "카메라",
-      "간식"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "가족 초청 행사를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P240",
-    "category": "특별행사",
-    "title": "작품 전시회",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "현수막",
-      "카메라",
-      "간식"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "작품 전시회를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P241",
-    "category": "특별행사",
-    "title": "미니 장터",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "간식",
-      "행사 소품",
-      "카메라"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "미니 장터를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P242",
-    "category": "특별행사",
-    "title": "공연 관람",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "행사 소품",
-      "간식",
-      "카메라"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "공연 관람를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P243",
-    "category": "특별행사",
-    "title": "요리 활동",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "행사 소품",
-      "간식",
-      "현수막"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "요리 활동를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P244",
-    "category": "특별행사",
-    "title": "사진 촬영일",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "현수막",
-      "음악",
-      "카메라"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "사진 촬영일를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P245",
-    "category": "특별행사",
-    "title": "계절 나들이",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "카메라",
-      "음악",
-      "현수막"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "계절 나들이를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P246",
-    "category": "특별행사",
-    "title": "설날 세배 행사",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "현수막",
-      "행사 소품",
-      "카메라"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "설날 세배 행사를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P247",
-    "category": "특별행사",
-    "title": "추석 송편 빚기",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "행사 소품",
-      "간식",
-      "현수막"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "추석 송편 빚기를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P248",
-    "category": "특별행사",
-    "title": "복날 삼계탕 이야기",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "현수막",
-      "음악",
-      "행사 소품"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "복날 삼계탕 이야기를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P249",
-    "category": "특별행사",
-    "title": "김장 체험",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "행사 소품",
-      "음악",
-      "카메라"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "김장 체험를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P250",
-    "category": "특별행사",
-    "title": "센터 작은 음악회",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "간식",
-      "음악",
-      "현수막"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "센터 작은 음악회를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P251",
-    "category": "특별행사",
-    "title": "어르신 장기자랑",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "현수막",
-      "행사 소품",
-      "간식"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "어르신 장기자랑를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P252",
-    "category": "특별행사",
-    "title": "봄맞이 화분 심기",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "간식",
-      "카메라",
-      "음악"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "봄맞이 화분 심기를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P253",
-    "category": "특별행사",
-    "title": "여름 부채 만들기",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "행사 소품",
-      "카메라",
-      "현수막"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "여름 부채 만들기를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P254",
-    "category": "특별행사",
-    "title": "가을 낙엽 액자",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "현수막",
-      "행사 소품",
-      "간식"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "가을 낙엽 액자를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P255",
-    "category": "특별행사",
-    "title": "겨울 털실 공예",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "간식",
-      "행사 소품",
-      "음악"
-    ],
-    "tags": [
-      "행사",
-      "계절",
-      "참여"
-    ],
-    "recommendedTime": "오후",
-    "description": "겨울 털실 공예를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
-  },
-  {
-    "id": "P256",
-    "category": "인지",
-    "title": "초성 이어 말하기",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "그림카드",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "초성 이어 말하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P257",
-    "category": "인지",
-    "title": "동물 소리 맞히기",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "숫자카드",
-      "색연필",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "동물 소리 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P258",
-    "category": "인지",
-    "title": "색깔 기억 게임",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "그림카드",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "색깔 기억 게임 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P259",
-    "category": "인지",
-    "title": "지도 보고 길 찾기",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "그림카드",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "지도 보고 길 찾기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P260",
-    "category": "인지",
-    "title": "단어 이어쓰기",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "색연필",
-      "그림카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "단어 이어쓰기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P261",
-    "category": "인지",
-    "title": "숫자 짝 맞추기",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "그림카드",
-      "낱말카드",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "숫자 짝 맞추기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P262",
-    "category": "인지",
-    "title": "과일 분류 게임",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "색연필",
-      "그림카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "과일 분류 게임 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P263",
-    "category": "인지",
-    "title": "숨은 단어 찾기",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "그림카드",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "숨은 단어 찾기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P264",
-    "category": "인지",
-    "title": "옛날 광고 맞히기",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "숫자카드",
-      "활동지",
-      "색연필",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "옛날 광고 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P265",
-    "category": "인지",
-    "title": "문장 완성 놀이",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "그림카드",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "문장 완성 놀이 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P266",
-    "category": "인지",
-    "title": "가족사진 이야기",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "색연필",
-      "그림카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "가족사진 이야기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P267",
-    "category": "인지",
-    "title": "한글 따라쓰기",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "그림카드",
-      "낱말카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "한글 따라쓰기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P268",
-    "category": "인지",
-    "title": "숫자 계산 카드",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "색연필",
-      "낱말카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "숫자 계산 카드 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P269",
-    "category": "인지",
-    "title": "요일 카드 배열",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "그림카드",
-      "숫자카드",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "요일 카드 배열 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P270",
-    "category": "인지",
-    "title": "나라 이름 맞히기",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "색연필",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "나라 이름 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P271",
-    "category": "인지",
-    "title": "사물 위치 기억",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "색연필",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "사물 위치 기억 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P272",
-    "category": "인지",
-    "title": "단어 순서 배열",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "활동지",
-      "그림카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "단어 순서 배열 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P273",
-    "category": "인지",
-    "title": "기억 상자 놀이",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "그림카드",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "기억 상자 놀이 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P274",
-    "category": "인지",
-    "title": "퍼즐 조각 맞추기",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "그림카드",
-      "숫자카드",
-      "색연필",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "퍼즐 조각 맞추기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P275",
-    "category": "인지",
-    "title": "문장 따라 읽기",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "그림카드",
-      "색연필",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "문장 따라 읽기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P276",
-    "category": "인지",
-    "title": "전화번호 이어말하기",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "숫자카드",
-      "그림카드",
-      "색연필",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "전화번호 이어말하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P277",
-    "category": "인지",
-    "title": "계절 음식 맞히기",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "숫자카드",
-      "그림카드",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "계절 음식 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P278",
-    "category": "인지",
-    "title": "모양 연결하기",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "활동지",
-      "색연필",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "모양 연결하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P279",
-    "category": "인지",
-    "title": "색칠 순서 기억",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "색연필",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "색칠 순서 기억 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P280",
-    "category": "인지",
-    "title": "초성 퀴즈",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "낱말카드",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "초성 퀴즈 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P281",
-    "category": "신체",
-    "title": "공 굴리기 운동",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "풍선",
-      "수건",
-      "의자",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "공 굴리기 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P282",
-    "category": "신체",
-    "title": "어깨 스트레칭",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "공",
-      "의자",
-      "수건",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "어깨 스트레칭 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P283",
-    "category": "신체",
-    "title": "무릎 펴기 운동",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "밴드",
-      "공",
-      "풍선",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "무릎 펴기 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P284",
-    "category": "신체",
-    "title": "손수건 던지기",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "공",
-      "수건",
-      "의자",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "손수건 던지기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P285",
-    "category": "신체",
-    "title": "의자 일어나기",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "밴드",
-      "공",
-      "풍선",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "의자 일어나기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P286",
-    "category": "신체",
-    "title": "발바닥 자극 운동",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "풍선",
-      "공",
-      "밴드",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "발바닥 자극 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P287",
-    "category": "신체",
-    "title": "풍선 릴레이",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "풍선",
-      "의자",
-      "공",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "풍선 릴레이 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P288",
-    "category": "신체",
-    "title": "리본 체조",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "수건",
-      "밴드",
-      "공",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "리본 체조 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P289",
-    "category": "신체",
-    "title": "짝꿍 스트레칭",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "의자",
-      "풍선",
-      "공",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "짝꿍 스트레칭 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P290",
-    "category": "신체",
-    "title": "리듬 걷기",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "밴드",
-      "풍선",
-      "수건",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "리듬 걷기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P291",
-    "category": "신체",
-    "title": "손가락 악력 훈련",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "수건",
-      "풍선",
-      "밴드",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "손가락 악력 훈련 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P292",
-    "category": "신체",
-    "title": "제자리 발구르기",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "의자",
-      "풍선",
-      "밴드",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "제자리 발구르기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P293",
-    "category": "신체",
-    "title": "가벼운 체조",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "풍선",
-      "의자",
-      "밴드",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "가벼운 체조 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P294",
-    "category": "신체",
-    "title": "팔 들어올리기",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "의자",
-      "공",
-      "수건",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "팔 들어올리기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P295",
-    "category": "신체",
-    "title": "앉아서 발차기",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "밴드",
-      "공",
-      "의자",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "앉아서 발차기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P296",
-    "category": "신체",
-    "title": "공 튕기기",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "수건",
-      "풍선",
-      "공",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "공 튕기기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P297",
-    "category": "신체",
-    "title": "균형 쿠션 운동",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "의자",
-      "수건",
-      "밴드",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "균형 쿠션 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P298",
-    "category": "신체",
-    "title": "라인 넘기 게임",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "풍선",
-      "의자",
-      "수건",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "라인 넘기 게임 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P299",
-    "category": "신체",
-    "title": "풍선 전달 게임",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "밴드",
-      "의자",
-      "공",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "풍선 전달 게임 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P300",
-    "category": "신체",
-    "title": "하체 유연성 운동",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "공",
-      "수건",
-      "풍선",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "하체 유연성 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P301",
-    "category": "신체",
-    "title": "발끝 터치 운동",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "공",
-      "수건",
-      "풍선",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "발끝 터치 운동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P302",
-    "category": "신체",
-    "title": "허리 스트레칭",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "공",
-      "풍선",
-      "수건",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "허리 스트레칭 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P303",
-    "category": "신체",
-    "title": "짝꿍 공 패스",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "밴드",
-      "수건",
-      "공",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "짝꿍 공 패스 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P304",
-    "category": "신체",
-    "title": "양팔 벌리기",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "공",
-      "수건",
-      "의자",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "양팔 벌리기 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P305",
-    "category": "신체",
-    "title": "건강 율동",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "의자",
-      "공",
-      "수건",
-    ],
-    "tags": [
-      "운동",
-      "근력",
-      "균형",
-    ],
-    "recommendedTime": "상시",
-    "description": "건강 율동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
-  },
-  {
-    "id": "P306",
-    "category": "정서",
-    "title": "추억 그림 그리기",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "도화지",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "추억 그림 그리기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P307",
-    "category": "정서",
-    "title": "좋아하는 노래 부르기",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "도화지",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "좋아하는 노래 부르기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P308",
-    "category": "정서",
-    "title": "희망 카드 쓰기",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "꽃재료",
-      "음악",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "희망 카드 쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P309",
-    "category": "정서",
-    "title": "꽃 향기 체험",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "음악",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "꽃 향기 체험 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P310",
-    "category": "정서",
-    "title": "마음 표현 색칠",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "도화지",
-      "스티커",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "마음 표현 색칠 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P311",
-    "category": "정서",
-    "title": "편안한 음악 듣기",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "도화지",
-      "스티커",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "편안한 음악 듣기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P312",
-    "category": "정서",
-    "title": "감사 일기 쓰기",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "꽃재료",
-      "음악",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "감사 일기 쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P313",
-    "category": "정서",
-    "title": "행복 나누기",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "꽃재료",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "행복 나누기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P314",
-    "category": "정서",
-    "title": "자연 풍경 감상",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "음악",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "자연 풍경 감상 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P315",
-    "category": "정서",
-    "title": "좋아하는 장소 이야기",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "도화지",
-      "음악",
-      "스티커",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "좋아하는 장소 이야기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P316",
-    "category": "정서",
-    "title": "감정 스티커 붙이기",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "음악",
-      "도화지",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "감정 스티커 붙이기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P317",
-    "category": "정서",
-    "title": "추억 사진 보기",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "꽃재료",
-      "색연필",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "추억 사진 보기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P318",
-    "category": "정서",
-    "title": "응원 메시지 만들기",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "음악",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "응원 메시지 만들기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P319",
-    "category": "정서",
-    "title": "미소 연습",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "음악",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "미소 연습 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P320",
-    "category": "정서",
-    "title": "명언 따라쓰기",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "음악",
-      "색연필",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "명언 따라쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P321",
-    "category": "정서",
-    "title": "손편지 꾸미기",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "꽃재료",
-      "도화지",
-      "음악",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "손편지 꾸미기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P322",
-    "category": "정서",
-    "title": "좋아하는 색 표현",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "음악",
-      "꽃재료",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "좋아하는 색 표현 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P323",
-    "category": "정서",
-    "title": "오늘 기분 이야기",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "음악",
-      "꽃재료",
-      "색연필",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "오늘 기분 이야기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P324",
-    "category": "정서",
-    "title": "감정 표현 카드",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "음악",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "감정 표현 카드 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P325",
-    "category": "정서",
-    "title": "좋은 기억 회상",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "음악",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "좋은 기억 회상 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P326",
-    "category": "정서",
-    "title": "힐링 음악 시간",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "꽃재료",
-      "스티커",
-      "음악",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "힐링 음악 시간 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P327",
-    "category": "정서",
-    "title": "캔들 꾸미기",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "음악",
-      "스티커",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "캔들 꾸미기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P328",
-    "category": "정서",
-    "title": "감사 표현 놀이",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "음악",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "감사 표현 놀이 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P329",
-    "category": "정서",
-    "title": "나의 장점 적기",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "음악",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "나의 장점 적기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P330",
-    "category": "정서",
-    "title": "소망 그림 그리기",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "음악",
-      "색연필",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "소망 그림 그리기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P331",
-    "category": "사회성",
-    "title": "팀별 퀴즈 대결",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "팀 표식",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "팀별 퀴즈 대결 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P332",
-    "category": "사회성",
-    "title": "짝꿍 자기소개",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "팀 표식",
-      "스티커",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "짝꿍 자기소개 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P333",
-    "category": "사회성",
-    "title": "공동 그림 완성",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "화이트보드",
-      "공",
-      "스티커",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "공동 그림 완성 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P334",
-    "category": "사회성",
-    "title": "친구 이름 기억하기",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "팀 표식",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "친구 이름 기억하기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P335",
-    "category": "사회성",
-    "title": "단체 율동",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "스티커",
-      "화이트보드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "단체 율동 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P336",
-    "category": "사회성",
-    "title": "협동 공 전달",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "화이트보드",
-      "게임카드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "협동 공 전달 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P337",
-    "category": "사회성",
-    "title": "웃음 릴레이",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "팀 표식",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "웃음 릴레이 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P338",
-    "category": "사회성",
-    "title": "함께 이야기 만들기",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "공",
-      "스티커",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "함께 이야기 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P339",
-    "category": "사회성",
-    "title": "역할 바꾸기 게임",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "공",
-      "팀 표식",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "역할 바꾸기 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P340",
-    "category": "사회성",
-    "title": "짝꿍 칭찬하기",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "팀 표식",
-      "화이트보드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "짝꿍 칭찬하기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P341",
-    "category": "사회성",
-    "title": "팀별 카드 맞추기",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "팀 표식",
-      "화이트보드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "팀별 카드 맞추기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P342",
-    "category": "사회성",
-    "title": "이름 부르기 게임",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "팀 표식",
-      "화이트보드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "이름 부르기 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P343",
-    "category": "사회성",
-    "title": "협동 풍선 게임",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "게임카드",
-      "팀 표식",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "협동 풍선 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P344",
-    "category": "사회성",
-    "title": "사진 이야기 나누기",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "화이트보드",
-      "스티커",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "사진 이야기 나누기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P345",
-    "category": "사회성",
-    "title": "집단 박수 게임",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "게임카드",
-      "팀 표식",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "집단 박수 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P346",
-    "category": "사회성",
-    "title": "공동 작품 만들기",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "팀 표식",
-      "화이트보드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "공동 작품 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P347",
-    "category": "사회성",
-    "title": "짝꿍 인터뷰 놀이",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "팀 표식",
-      "스티커",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "짝꿍 인터뷰 놀이 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P348",
-    "category": "사회성",
-    "title": "팀 응원 만들기",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "팀 표식",
-      "스티커",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "팀 응원 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P349",
-    "category": "사회성",
-    "title": "친구 장점 발표",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "화이트보드",
-      "스티커",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "친구 장점 발표 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P350",
-    "category": "사회성",
-    "title": "릴레이 그림 그리기",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "팀 표식",
-      "게임카드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "릴레이 그림 그리기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P351",
-    "category": "사회성",
-    "title": "함께 노래 부르기",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "팀 표식",
-      "스티커",
-      "게임카드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "함께 노래 부르기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P352",
-    "category": "사회성",
-    "title": "미션 협동 게임",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "화이트보드",
-      "공",
-      "스티커",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "미션 협동 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P353",
-    "category": "사회성",
-    "title": "팀별 속담 맞히기",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "게임카드",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "팀별 속담 맞히기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P354",
-    "category": "사회성",
-    "title": "공동 퍼즐 완성",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "스티커",
-      "게임카드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "공동 퍼즐 완성 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P355",
-    "category": "사회성",
-    "title": "친구에게 편지쓰기",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "공",
-      "스티커",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "친구에게 편지쓰기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
     "id": "P356",
     "category": "생활",
     "title": "올바른 손소독",
@@ -7640,1004 +8641,104 @@ export const programs: Program[] = [
     "description": "생활 규칙 맞히기 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
   },
   {
-    "id": "P381",
-    "category": "특별행사",
-    "title": "생일 축하 파티",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
+    "id": "P506",
+    "category": "생활",
+    "title": "올바른 손소독 응용",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
     "materials": [
-      "음악",
-      "장식품",
-      "간식",
+      "생활용품",
+      "교육카드",
+      "그림자료",
     ],
     "tags": [
-      "행사",
-      "참여",
-      "추억",
+      "일상생활",
+      "안전",
+      "위생",
     ],
-    "recommendedTime": "오후",
-    "description": "생일 축하 파티 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
+    "recommendedTime": "상시",
+    "description": "올바른 손소독 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
   },
   {
-    "id": "P382",
-    "category": "특별행사",
-    "title": "명절 음식 체험",
+    "id": "P507",
+    "category": "생활",
+    "title": "실내 안전 확인 응용",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "교육카드",
+      "생활용품",
+      "체크리스트",
+    ],
+    "tags": [
+      "일상생활",
+      "안전",
+      "위생",
+    ],
+    "recommendedTime": "상시",
+    "description": "실내 안전 확인 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
+  },
+  {
+    "id": "P508",
+    "category": "생활",
+    "title": "건강 음식 고르기 응용",
     "duration": 30,
     "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
+    "mobility": "좌식 가능",
     "materials": [
-      "간식",
-      "사진",
-      "음악",
+      "체크리스트",
+      "그림자료",
+      "생활용품",
     ],
     "tags": [
-      "행사",
-      "참여",
-      "추억",
+      "일상생활",
+      "안전",
+      "위생",
     ],
-    "recommendedTime": "오후",
-    "description": "명절 음식 체험 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
+    "recommendedTime": "상시",
+    "description": "건강 음식 고르기 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
   },
   {
-    "id": "P383",
-    "category": "특별행사",
-    "title": "추억 사진 전시",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "간식",
-      "음악",
-      "사진",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "추억 사진 전시 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P384",
-    "category": "특별행사",
-    "title": "가을 운동회",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "간식",
-      "사진",
-      "음악",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "가을 운동회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P385",
-    "category": "특별행사",
-    "title": "전통놀이 한마당",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "음악",
-      "간식",
-      "장식품",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "전통놀이 한마당 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P386",
-    "category": "특별행사",
-    "title": "노래자랑 대회",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "간식",
-      "사진",
-      "음악",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "노래자랑 대회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P387",
-    "category": "특별행사",
-    "title": "봄 소풍 이야기",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "장식품",
-      "음악",
-      "간식",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "봄 소풍 이야기 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P388",
-    "category": "특별행사",
-    "title": "크리스마스 꾸미기",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "음악",
-      "간식",
-      "장식품",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "크리스마스 꾸미기 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P389",
-    "category": "특별행사",
-    "title": "어버이날 행사",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "장식품",
-      "음악",
-      "간식",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "어버이날 행사 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P390",
-    "category": "특별행사",
-    "title": "실버 장기자랑",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "간식",
-      "음악",
-      "장식품",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "실버 장기자랑 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P391",
-    "category": "특별행사",
-    "title": "추석 윷놀이",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "음악",
-      "사진",
-      "장식품",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "추석 윷놀이 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P392",
-    "category": "특별행사",
-    "title": "새해 소망 발표",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "음악",
-      "장식품",
-      "사진",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "새해 소망 발표 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P393",
-    "category": "특별행사",
-    "title": "여름 축제",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "장식품",
-      "음악",
-      "간식",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "여름 축제 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P394",
-    "category": "특별행사",
-    "title": "감사 발표회",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "간식",
-      "사진",
-      "음악",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "감사 발표회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P395",
-    "category": "특별행사",
-    "title": "전통 의상 체험",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "사진",
-      "간식",
-      "음악",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "전통 의상 체험 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P396",
-    "category": "특별행사",
-    "title": "계절 음악회",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "장식품",
-      "음악",
-      "간식",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "계절 음악회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P397",
-    "category": "특별행사",
-    "title": "가족 초청 행사",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "음악",
-      "사진",
-      "간식",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "가족 초청 행사 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P398",
-    "category": "특별행사",
-    "title": "실버 미술 전시",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "사진",
-      "간식",
-      "음악",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "실버 미술 전시 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P399",
-    "category": "특별행사",
-    "title": "단체 레크리에이션",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "장식품",
-      "간식",
-      "음악",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "단체 레크리에이션 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P400",
-    "category": "특별행사",
-    "title": "추억 영상 감상",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "간식",
-      "장식품",
-      "음악",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "추억 영상 감상 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P401",
-    "category": "특별행사",
-    "title": "가을 단풍 행사",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "음악",
-      "사진",
-      "간식",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "가을 단풍 행사 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P402",
-    "category": "특별행사",
-    "title": "봄꽃 감상회",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "장식품",
-      "음악",
-      "간식",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "봄꽃 감상회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P403",
-    "category": "특별행사",
-    "title": "생신 잔치",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "간식",
-      "음악",
-      "사진",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "생신 잔치 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P404",
-    "category": "특별행사",
-    "title": "연말 발표회",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "사진",
-      "장식품",
-      "간식",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "연말 발표회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P405",
-    "category": "특별행사",
-    "title": "건강 캠페인",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "가벼운 이동 필요",
-    "materials": [
-      "음악",
-      "장식품",
-      "사진",
-    ],
-    "tags": [
-      "행사",
-      "참여",
-      "추억",
-    ],
-    "recommendedTime": "오후",
-    "description": "건강 캠페인 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
-  },
-  {
-    "id": "P406",
-    "category": "인지",
-    "title": "초성 이어 말하기 응용",
+    "id": "P509",
+    "category": "생활",
+    "title": "하루 일정 확인 응용",
     "duration": 40,
     "difficulty": "쉬움",
     "mobility": "좌식 가능",
     "materials": [
-      "활동지",
-      "그림카드",
-      "숫자카드",
+      "생활용품",
+      "체크리스트",
+      "교육카드",
     ],
     "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
+      "일상생활",
+      "안전",
+      "위생",
     ],
-    "recommendedTime": "오전",
-    "description": "초성 이어 말하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+    "recommendedTime": "상시",
+    "description": "하루 일정 확인 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
   },
   {
-    "id": "P407",
-    "category": "인지",
-    "title": "동물 소리 맞히기 응용",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "숫자카드",
-      "색연필",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "동물 소리 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P408",
-    "category": "인지",
-    "title": "색깔 기억 게임 응용",
+    "id": "P510",
+    "category": "생활",
+    "title": "냉장고 정리 놀이 응용",
     "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "그림카드",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "색깔 기억 게임 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P409",
-    "category": "인지",
-    "title": "지도 보고 길 찾기 응용",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "그림카드",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "지도 보고 길 찾기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P410",
-    "category": "인지",
-    "title": "단어 이어쓰기 응용",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "색연필",
-      "그림카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "단어 이어쓰기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P411",
-    "category": "인지",
-    "title": "숫자 짝 맞추기 응용",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "그림카드",
-      "낱말카드",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "숫자 짝 맞추기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P412",
-    "category": "인지",
-    "title": "과일 분류 게임 응용",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "색연필",
-      "그림카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "과일 분류 게임 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P413",
-    "category": "인지",
-    "title": "숨은 단어 찾기 응용",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "그림카드",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "숨은 단어 찾기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P414",
-    "category": "인지",
-    "title": "옛날 광고 맞히기 응용",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "숫자카드",
-      "활동지",
-      "색연필",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "옛날 광고 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P415",
-    "category": "인지",
-    "title": "문장 완성 놀이 응용",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "그림카드",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "문장 완성 놀이 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P416",
-    "category": "인지",
-    "title": "가족사진 이야기 응용",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "색연필",
-      "그림카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "가족사진 이야기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P417",
-    "category": "인지",
-    "title": "한글 따라쓰기 응용",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "그림카드",
-      "낱말카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "한글 따라쓰기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P418",
-    "category": "인지",
-    "title": "숫자 계산 카드 응용",
-    "duration": 30,
     "difficulty": "쉬움",
     "mobility": "좌식 가능",
     "materials": [
-      "활동지",
-      "색연필",
-      "낱말카드",
+      "체크리스트",
+      "생활용품",
+      "교육카드",
     ],
     "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
+      "일상생활",
+      "안전",
+      "위생",
     ],
-    "recommendedTime": "오전",
-    "description": "숫자 계산 카드 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P419",
-    "category": "인지",
-    "title": "요일 카드 배열 응용",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "그림카드",
-      "숫자카드",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "요일 카드 배열 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P420",
-    "category": "인지",
-    "title": "나라 이름 맞히기 응용",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "색연필",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "나라 이름 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P421",
-    "category": "인지",
-    "title": "사물 위치 기억 응용",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "색연필",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "사물 위치 기억 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P422",
-    "category": "인지",
-    "title": "단어 순서 배열 응용",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "활동지",
-      "그림카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "단어 순서 배열 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P423",
-    "category": "인지",
-    "title": "기억 상자 놀이 응용",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "그림카드",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "기억 상자 놀이 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P424",
-    "category": "인지",
-    "title": "퍼즐 조각 맞추기 응용",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "그림카드",
-      "숫자카드",
-      "색연필",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "퍼즐 조각 맞추기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P425",
-    "category": "인지",
-    "title": "문장 따라 읽기 응용",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "그림카드",
-      "색연필",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "문장 따라 읽기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P426",
-    "category": "인지",
-    "title": "전화번호 이어말하기 응용",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "숫자카드",
-      "그림카드",
-      "색연필",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "전화번호 이어말하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P427",
-    "category": "인지",
-    "title": "계절 음식 맞히기 응용",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "숫자카드",
-      "그림카드",
-      "활동지",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "계절 음식 맞히기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P428",
-    "category": "인지",
-    "title": "모양 연결하기 응용",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "활동지",
-      "색연필",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "모양 연결하기 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P429",
-    "category": "인지",
-    "title": "색칠 순서 기억 응용",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "낱말카드",
-      "색연필",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "색칠 순서 기억 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
-  },
-  {
-    "id": "P430",
-    "category": "인지",
-    "title": "초성 퀴즈 응용",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "활동지",
-      "낱말카드",
-      "숫자카드",
-    ],
-    "tags": [
-      "치매예방",
-      "언어",
-      "집중력",
-    ],
-    "recommendedTime": "오전",
-    "description": "초성 퀴즈 활동을 통해 기억력, 언어능력, 집중력을 자연스럽게 자극하는 활동"
+    "recommendedTime": "상시",
+    "description": "냉장고 정리 놀이 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
   },
   {
     "id": "P431",
@@ -9140,1103 +9241,1003 @@ export const programs: Program[] = [
     "description": "건강 율동 활동을 통해 관절 가동성, 균형감, 근력을 무리 없이 돕는 활동"
   },
   {
-    "id": "P456",
-    "category": "정서",
-    "title": "추억 그림 그리기 응용",
-    "duration": 50,
+    "id": "P231",
+    "category": "특별행사",
+    "title": "생신잔치",
+    "duration": 30,
     "difficulty": "쉬움",
     "mobility": "좌식 가능",
     "materials": [
-      "색연필",
-      "도화지",
-      "꽃재료",
+      "음악",
+      "카메라",
+      "현수막"
     ],
     "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
+      "행사",
+      "계절",
+      "참여"
     ],
     "recommendedTime": "오후",
-    "description": "추억 그림 그리기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+    "description": "생신잔치를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
   },
   {
-    "id": "P457",
-    "category": "정서",
-    "title": "좋아하는 노래 부르기 응용",
+    "id": "P232",
+    "category": "특별행사",
+    "title": "어버이날 행사",
     "duration": 40,
     "difficulty": "보통",
     "mobility": "좌식 가능",
     "materials": [
-      "색연필",
-      "도화지",
-      "꽃재료",
+      "카메라",
+      "현수막",
+      "행사 소품"
     ],
     "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
+      "행사",
+      "계절",
+      "참여"
     ],
     "recommendedTime": "오후",
-    "description": "좋아하는 노래 부르기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+    "description": "어버이날 행사를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
   },
   {
-    "id": "P458",
-    "category": "정서",
-    "title": "희망 카드 쓰기 응용",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "꽃재료",
-      "음악",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "희망 카드 쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P459",
-    "category": "정서",
-    "title": "꽃 향기 체험 응용",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "음악",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "꽃 향기 체험 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P460",
-    "category": "정서",
-    "title": "마음 표현 색칠 응용",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "도화지",
-      "스티커",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "마음 표현 색칠 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P461",
-    "category": "정서",
-    "title": "편안한 음악 듣기 응용",
+    "id": "P233",
+    "category": "특별행사",
+    "title": "명절 민속놀이",
     "duration": 50,
     "difficulty": "쉬움",
     "mobility": "좌식 가능",
     "materials": [
-      "색연필",
-      "도화지",
-      "스티커",
+      "간식",
+      "현수막",
+      "음악"
     ],
     "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
+      "행사",
+      "계절",
+      "참여"
     ],
     "recommendedTime": "오후",
-    "description": "편안한 음악 듣기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+    "description": "명절 민속놀이를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
   },
   {
-    "id": "P462",
-    "category": "정서",
-    "title": "감사 일기 쓰기 응용",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "꽃재료",
-      "음악",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "감사 일기 쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P463",
-    "category": "정서",
-    "title": "행복 나누기 응용",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "꽃재료",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "행복 나누기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P464",
-    "category": "정서",
-    "title": "자연 풍경 감상 응용",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "음악",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "자연 풍경 감상 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P465",
-    "category": "정서",
-    "title": "좋아하는 장소 이야기 응용",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "도화지",
-      "음악",
-      "스티커",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "좋아하는 장소 이야기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P466",
-    "category": "정서",
-    "title": "감정 스티커 붙이기 응용",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "음악",
-      "도화지",
-      "꽃재료",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "감정 스티커 붙이기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P467",
-    "category": "정서",
-    "title": "추억 사진 보기 응용",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "꽃재료",
-      "색연필",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "추억 사진 보기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P468",
-    "category": "정서",
-    "title": "응원 메시지 만들기 응용",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "음악",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "응원 메시지 만들기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P469",
-    "category": "정서",
-    "title": "미소 연습 응용",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "음악",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "미소 연습 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P470",
-    "category": "정서",
-    "title": "명언 따라쓰기 응용",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "음악",
-      "색연필",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "명언 따라쓰기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P471",
-    "category": "정서",
-    "title": "손편지 꾸미기 응용",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "꽃재료",
-      "도화지",
-      "음악",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "손편지 꾸미기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P472",
-    "category": "정서",
-    "title": "좋아하는 색 표현 응용",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "음악",
-      "꽃재료",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "좋아하는 색 표현 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P473",
-    "category": "정서",
-    "title": "오늘 기분 이야기 응용",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "음악",
-      "꽃재료",
-      "색연필",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "오늘 기분 이야기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P474",
-    "category": "정서",
-    "title": "감정 표현 카드 응용",
-    "duration": 50,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "색연필",
-      "음악",
-      "도화지",
-    ],
-    "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
-    ],
-    "recommendedTime": "오후",
-    "description": "감정 표현 카드 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
-  },
-  {
-    "id": "P475",
-    "category": "정서",
-    "title": "좋은 기억 회상 응용",
+    "id": "P234",
+    "category": "특별행사",
+    "title": "봄꽃 축제",
     "duration": 40,
     "difficulty": "보통",
     "mobility": "좌식 가능",
     "materials": [
-      "스티커",
+      "행사 소품",
+      "간식",
+      "현수막"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "봄꽃 축제를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P235",
+    "category": "특별행사",
+    "title": "여름 수박 파티",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
       "음악",
-      "도화지",
+      "행사 소품",
+      "카메라"
     ],
     "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
+      "행사",
+      "계절",
+      "참여"
     ],
     "recommendedTime": "오후",
-    "description": "좋은 기억 회상 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+    "description": "여름 수박 파티를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
   },
   {
-    "id": "P476",
-    "category": "정서",
-    "title": "힐링 음악 시간 응용",
+    "id": "P236",
+    "category": "특별행사",
+    "title": "가을 운동회",
     "duration": 40,
     "difficulty": "쉬움",
     "mobility": "좌식 가능",
     "materials": [
-      "꽃재료",
-      "스티커",
+      "카메라",
+      "행사 소품",
+      "간식"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "가을 운동회를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P237",
+    "category": "특별행사",
+    "title": "크리스마스 카드 만들기",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "행사 소품",
+      "간식",
+      "카메라"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "크리스마스 카드 만들기를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P238",
+    "category": "특별행사",
+    "title": "송년회",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "행사 소품",
+      "현수막",
+      "카메라"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "송년회를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P239",
+    "category": "특별행사",
+    "title": "가족 초청 행사",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "현수막",
+      "카메라",
+      "간식"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "가족 초청 행사를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P240",
+    "category": "특별행사",
+    "title": "작품 전시회",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "현수막",
+      "카메라",
+      "간식"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "작품 전시회를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P241",
+    "category": "특별행사",
+    "title": "미니 장터",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "간식",
+      "행사 소품",
+      "카메라"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "미니 장터를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P242",
+    "category": "특별행사",
+    "title": "공연 관람",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "행사 소품",
+      "간식",
+      "카메라"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "공연 관람를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P243",
+    "category": "특별행사",
+    "title": "요리 활동",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "행사 소품",
+      "간식",
+      "현수막"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "요리 활동를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P244",
+    "category": "특별행사",
+    "title": "사진 촬영일",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "현수막",
+      "음악",
+      "카메라"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "사진 촬영일를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P245",
+    "category": "특별행사",
+    "title": "계절 나들이",
+    "duration": 50,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "카메라",
+      "음악",
+      "현수막"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "계절 나들이를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P246",
+    "category": "특별행사",
+    "title": "설날 세배 행사",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "현수막",
+      "행사 소품",
+      "카메라"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "설날 세배 행사를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P247",
+    "category": "특별행사",
+    "title": "추석 송편 빚기",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "행사 소품",
+      "간식",
+      "현수막"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "추석 송편 빚기를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P248",
+    "category": "특별행사",
+    "title": "복날 삼계탕 이야기",
+    "duration": 40,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "현수막",
+      "음악",
+      "행사 소품"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "복날 삼계탕 이야기를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P249",
+    "category": "특별행사",
+    "title": "김장 체험",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "행사 소품",
+      "음악",
+      "카메라"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "김장 체험를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P250",
+    "category": "특별행사",
+    "title": "센터 작은 음악회",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "간식",
+      "음악",
+      "현수막"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "센터 작은 음악회를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P251",
+    "category": "특별행사",
+    "title": "어르신 장기자랑",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "현수막",
+      "행사 소품",
+      "간식"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "어르신 장기자랑를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P252",
+    "category": "특별행사",
+    "title": "봄맞이 화분 심기",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "간식",
+      "카메라",
+      "음악"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "봄맞이 화분 심기를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P253",
+    "category": "특별행사",
+    "title": "여름 부채 만들기",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "행사 소품",
+      "카메라",
+      "현수막"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "여름 부채 만들기를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P254",
+    "category": "특별행사",
+    "title": "가을 낙엽 액자",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "좌식 가능",
+    "materials": [
+      "현수막",
+      "행사 소품",
+      "간식"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "가을 낙엽 액자를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P255",
+    "category": "특별행사",
+    "title": "겨울 털실 공예",
+    "duration": 30,
+    "difficulty": "어려움",
+    "mobility": "좌식 가능",
+    "materials": [
+      "간식",
+      "행사 소품",
+      "음악"
+    ],
+    "tags": [
+      "행사",
+      "계절",
+      "참여"
+    ],
+    "recommendedTime": "오후",
+    "description": "겨울 털실 공예를 통해 계절감, 소속감, 즐거운 추억 형성을 돕는 행사 활동"
+  },
+  {
+    "id": "P381",
+    "category": "특별행사",
+    "title": "생일 축하 파티",
+    "duration": 50,
+    "difficulty": "쉬움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "음악",
+      "장식품",
+      "간식",
+    ],
+    "tags": [
+      "행사",
+      "참여",
+      "추억",
+    ],
+    "recommendedTime": "오후",
+    "description": "생일 축하 파티 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
+  },
+  {
+    "id": "P382",
+    "category": "특별행사",
+    "title": "명절 음식 체험",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "간식",
+      "사진",
       "음악",
     ],
     "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "힐링 음악 시간 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+    "description": "명절 음식 체험 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P477",
-    "category": "정서",
-    "title": "캔들 꾸미기 응용",
-    "duration": 30,
+    "id": "P383",
+    "category": "특별행사",
+    "title": "추억 사진 전시",
+    "duration": 50,
     "difficulty": "어려움",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "색연필",
+      "간식",
       "음악",
-      "스티커",
+      "사진",
     ],
     "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "캔들 꾸미기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+    "description": "추억 사진 전시 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P478",
-    "category": "정서",
-    "title": "감사 표현 놀이 응용",
+    "id": "P384",
+    "category": "특별행사",
+    "title": "가을 운동회",
     "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "스티커",
+      "간식",
+      "사진",
       "음악",
-      "꽃재료",
     ],
     "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "감사 표현 놀이 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+    "description": "가을 운동회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P479",
-    "category": "정서",
-    "title": "나의 장점 적기 응용",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
+    "id": "P385",
+    "category": "특별행사",
+    "title": "전통놀이 한마당",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "스티커",
       "음악",
-      "도화지",
+      "간식",
+      "장식품",
     ],
     "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "나의 장점 적기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+    "description": "전통놀이 한마당 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P480",
-    "category": "정서",
-    "title": "소망 그림 그리기 응용",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
+    "id": "P386",
+    "category": "특별행사",
+    "title": "노래자랑 대회",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "스티커",
+      "간식",
+      "사진",
       "음악",
-      "색연필",
     ],
     "tags": [
-      "정서지원",
-      "표현",
-      "안정감",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "소망 그림 그리기 활동을 통해 안정감, 자기표현, 긍정 정서를 높이는 활동"
+    "description": "노래자랑 대회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P481",
-    "category": "사회성",
-    "title": "팀별 퀴즈 대결 응용",
-    "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "팀 표식",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "팀별 퀴즈 대결 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P482",
-    "category": "사회성",
-    "title": "짝꿍 자기소개 응용",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "팀 표식",
-      "스티커",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "짝꿍 자기소개 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P483",
-    "category": "사회성",
-    "title": "공동 그림 완성 응용",
+    "id": "P387",
+    "category": "특별행사",
+    "title": "봄 소풍 이야기",
     "duration": 30,
     "difficulty": "어려움",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "화이트보드",
-      "공",
-      "스티커",
+      "장식품",
+      "음악",
+      "간식",
     ],
     "tags": [
-      "사회성",
-      "협동",
-      "대화",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "공동 그림 완성 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+    "description": "봄 소풍 이야기 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P484",
-    "category": "사회성",
-    "title": "친구 이름 기억하기 응용",
-    "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "팀 표식",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "친구 이름 기억하기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P485",
-    "category": "사회성",
-    "title": "단체 율동 응용",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "스티커",
-      "화이트보드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "단체 율동 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P486",
-    "category": "사회성",
-    "title": "협동 공 전달 응용",
-    "duration": 30,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "화이트보드",
-      "게임카드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "협동 공 전달 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P487",
-    "category": "사회성",
-    "title": "웃음 릴레이 응용",
+    "id": "P388",
+    "category": "특별행사",
+    "title": "크리스마스 꾸미기",
     "duration": 50,
     "difficulty": "어려움",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "스티커",
-      "팀 표식",
-      "공",
+      "음악",
+      "간식",
+      "장식품",
     ],
     "tags": [
-      "사회성",
-      "협동",
-      "대화",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "웃음 릴레이 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+    "description": "크리스마스 꾸미기 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P488",
-    "category": "사회성",
-    "title": "함께 이야기 만들기 응용",
-    "duration": 40,
+    "id": "P389",
+    "category": "특별행사",
+    "title": "어버이날 행사",
+    "duration": 50,
     "difficulty": "어려움",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "게임카드",
-      "공",
-      "스티커",
+      "장식품",
+      "음악",
+      "간식",
     ],
     "tags": [
-      "사회성",
-      "협동",
-      "대화",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "함께 이야기 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+    "description": "어버이날 행사 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P489",
-    "category": "사회성",
-    "title": "역할 바꾸기 게임 응용",
+    "id": "P390",
+    "category": "특별행사",
+    "title": "실버 장기자랑",
     "duration": 50,
     "difficulty": "보통",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "스티커",
-      "공",
-      "팀 표식",
+      "간식",
+      "음악",
+      "장식품",
     ],
     "tags": [
-      "사회성",
-      "협동",
-      "대화",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "역할 바꾸기 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+    "description": "실버 장기자랑 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P490",
-    "category": "사회성",
-    "title": "짝꿍 칭찬하기 응용",
+    "id": "P391",
+    "category": "특별행사",
+    "title": "추석 윷놀이",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "음악",
+      "사진",
+      "장식품",
+    ],
+    "tags": [
+      "행사",
+      "참여",
+      "추억",
+    ],
+    "recommendedTime": "오후",
+    "description": "추석 윷놀이 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
+  },
+  {
+    "id": "P392",
+    "category": "특별행사",
+    "title": "새해 소망 발표",
     "duration": 30,
     "difficulty": "쉬움",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "게임카드",
-      "팀 표식",
-      "화이트보드",
+      "음악",
+      "장식품",
+      "사진",
     ],
     "tags": [
-      "사회성",
-      "협동",
-      "대화",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "짝꿍 칭찬하기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+    "description": "새해 소망 발표 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P491",
-    "category": "사회성",
-    "title": "팀별 카드 맞추기 응용",
+    "id": "P393",
+    "category": "특별행사",
+    "title": "여름 축제",
     "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
+    "difficulty": "쉬움",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "공",
-      "팀 표식",
-      "화이트보드",
+      "장식품",
+      "음악",
+      "간식",
     ],
     "tags": [
-      "사회성",
-      "협동",
-      "대화",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "팀별 카드 맞추기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+    "description": "여름 축제 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P492",
-    "category": "사회성",
-    "title": "이름 부르기 게임 응용",
+    "id": "P394",
+    "category": "특별행사",
+    "title": "감사 발표회",
+    "duration": 30,
+    "difficulty": "쉬움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "간식",
+      "사진",
+      "음악",
+    ],
+    "tags": [
+      "행사",
+      "참여",
+      "추억",
+    ],
+    "recommendedTime": "오후",
+    "description": "감사 발표회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
+  },
+  {
+    "id": "P395",
+    "category": "특별행사",
+    "title": "전통 의상 체험",
     "duration": 40,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "게임카드",
-      "팀 표식",
-      "화이트보드",
+      "사진",
+      "간식",
+      "음악",
     ],
     "tags": [
-      "사회성",
-      "협동",
-      "대화",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "이름 부르기 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+    "description": "전통 의상 체험 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P493",
-    "category": "사회성",
-    "title": "협동 풍선 게임 응용",
+    "id": "P396",
+    "category": "특별행사",
+    "title": "계절 음악회",
     "duration": 50,
     "difficulty": "쉬움",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "공",
-      "게임카드",
-      "팀 표식",
+      "장식품",
+      "음악",
+      "간식",
     ],
     "tags": [
-      "사회성",
-      "협동",
-      "대화",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "협동 풍선 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+    "description": "계절 음악회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P494",
-    "category": "사회성",
-    "title": "사진 이야기 나누기 응용",
+    "id": "P397",
+    "category": "특별행사",
+    "title": "가족 초청 행사",
     "duration": 30,
     "difficulty": "어려움",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "화이트보드",
-      "스티커",
-      "공",
+      "음악",
+      "사진",
+      "간식",
     ],
     "tags": [
-      "사회성",
-      "협동",
-      "대화",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "사진 이야기 나누기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+    "description": "가족 초청 행사 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P495",
-    "category": "사회성",
-    "title": "집단 박수 게임 응용",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "게임카드",
-      "팀 표식",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "집단 박수 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P496",
-    "category": "사회성",
-    "title": "공동 작품 만들기 응용",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "팀 표식",
-      "화이트보드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "공동 작품 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P497",
-    "category": "사회성",
-    "title": "짝꿍 인터뷰 놀이 응용",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "팀 표식",
-      "스티커",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "짝꿍 인터뷰 놀이 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P498",
-    "category": "사회성",
-    "title": "팀 응원 만들기 응용",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "팀 표식",
-      "스티커",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "팀 응원 만들기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P499",
-    "category": "사회성",
-    "title": "친구 장점 발표 응용",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "화이트보드",
-      "스티커",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "친구 장점 발표 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P500",
-    "category": "사회성",
-    "title": "릴레이 그림 그리기 응용",
-    "duration": 50,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "팀 표식",
-      "게임카드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "릴레이 그림 그리기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P501",
-    "category": "사회성",
-    "title": "함께 노래 부르기 응용",
+    "id": "P398",
+    "category": "특별행사",
+    "title": "실버 미술 전시",
     "duration": 40,
     "difficulty": "보통",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "팀 표식",
-      "스티커",
-      "게임카드",
+      "사진",
+      "간식",
+      "음악",
     ],
     "tags": [
-      "사회성",
-      "협동",
-      "대화",
+      "행사",
+      "참여",
+      "추억",
     ],
     "recommendedTime": "오후",
-    "description": "함께 노래 부르기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
+    "description": "실버 미술 전시 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P502",
-    "category": "사회성",
-    "title": "미션 협동 게임 응용",
-    "duration": 30,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "화이트보드",
-      "공",
-      "스티커",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "미션 협동 게임 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P503",
-    "category": "사회성",
-    "title": "팀별 속담 맞히기 응용",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "스티커",
-      "게임카드",
-      "공",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "팀별 속담 맞히기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P504",
-    "category": "사회성",
-    "title": "공동 퍼즐 완성 응용",
-    "duration": 50,
-    "difficulty": "보통",
-    "mobility": "좌식 가능",
-    "materials": [
-      "공",
-      "스티커",
-      "게임카드",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "공동 퍼즐 완성 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P505",
-    "category": "사회성",
-    "title": "친구에게 편지쓰기 응용",
-    "duration": 40,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "게임카드",
-      "공",
-      "스티커",
-    ],
-    "tags": [
-      "사회성",
-      "협동",
-      "대화",
-    ],
-    "recommendedTime": "오후",
-    "description": "친구에게 편지쓰기 활동을 통해 대화, 협동, 관계 형성을 돕는 집단 활동"
-  },
-  {
-    "id": "P506",
-    "category": "생활",
-    "title": "올바른 손소독 응용",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "생활용품",
-      "교육카드",
-      "그림자료",
-    ],
-    "tags": [
-      "일상생활",
-      "안전",
-      "위생",
-    ],
-    "recommendedTime": "상시",
-    "description": "올바른 손소독 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
-  },
-  {
-    "id": "P507",
-    "category": "생활",
-    "title": "실내 안전 확인 응용",
-    "duration": 30,
-    "difficulty": "어려움",
-    "mobility": "좌식 가능",
-    "materials": [
-      "교육카드",
-      "생활용품",
-      "체크리스트",
-    ],
-    "tags": [
-      "일상생활",
-      "안전",
-      "위생",
-    ],
-    "recommendedTime": "상시",
-    "description": "실내 안전 확인 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
-  },
-  {
-    "id": "P508",
-    "category": "생활",
-    "title": "건강 음식 고르기 응용",
+    "id": "P399",
+    "category": "특별행사",
+    "title": "단체 레크리에이션",
     "duration": 30,
     "difficulty": "보통",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "체크리스트",
-      "그림자료",
-      "생활용품",
+      "장식품",
+      "간식",
+      "음악",
     ],
     "tags": [
-      "일상생활",
-      "안전",
-      "위생",
+      "행사",
+      "참여",
+      "추억",
     ],
-    "recommendedTime": "상시",
-    "description": "건강 음식 고르기 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
+    "recommendedTime": "오후",
+    "description": "단체 레크리에이션 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P509",
-    "category": "생활",
-    "title": "하루 일정 확인 응용",
+    "id": "P400",
+    "category": "특별행사",
+    "title": "추억 영상 감상",
     "duration": 40,
-    "difficulty": "쉬움",
-    "mobility": "좌식 가능",
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "생활용품",
-      "체크리스트",
-      "교육카드",
+      "간식",
+      "장식품",
+      "음악",
     ],
     "tags": [
-      "일상생활",
-      "안전",
-      "위생",
+      "행사",
+      "참여",
+      "추억",
     ],
-    "recommendedTime": "상시",
-    "description": "하루 일정 확인 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
+    "recommendedTime": "오후",
+    "description": "추억 영상 감상 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
   {
-    "id": "P510",
-    "category": "생활",
-    "title": "냉장고 정리 놀이 응용",
-    "duration": 50,
+    "id": "P401",
+    "category": "특별행사",
+    "title": "가을 단풍 행사",
+    "duration": 30,
     "difficulty": "쉬움",
-    "mobility": "좌식 가능",
+    "mobility": "가벼운 이동 필요",
     "materials": [
-      "체크리스트",
-      "생활용품",
-      "교육카드",
+      "음악",
+      "사진",
+      "간식",
     ],
     "tags": [
-      "일상생활",
-      "안전",
-      "위생",
+      "행사",
+      "참여",
+      "추억",
     ],
-    "recommendedTime": "상시",
-    "description": "냉장고 정리 놀이 활동을 통해 일상생활 기능과 안전 습관을 유지하도록 돕는 활동"
+    "recommendedTime": "오후",
+    "description": "가을 단풍 행사 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
+  },
+  {
+    "id": "P402",
+    "category": "특별행사",
+    "title": "봄꽃 감상회",
+    "duration": 50,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "장식품",
+      "음악",
+      "간식",
+    ],
+    "tags": [
+      "행사",
+      "참여",
+      "추억",
+    ],
+    "recommendedTime": "오후",
+    "description": "봄꽃 감상회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
+  },
+  {
+    "id": "P403",
+    "category": "특별행사",
+    "title": "생신 잔치",
+    "duration": 40,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "간식",
+      "음악",
+      "사진",
+    ],
+    "tags": [
+      "행사",
+      "참여",
+      "추억",
+    ],
+    "recommendedTime": "오후",
+    "description": "생신 잔치 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
+  },
+  {
+    "id": "P404",
+    "category": "특별행사",
+    "title": "연말 발표회",
+    "duration": 30,
+    "difficulty": "보통",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "사진",
+      "장식품",
+      "간식",
+    ],
+    "tags": [
+      "행사",
+      "참여",
+      "추억",
+    ],
+    "recommendedTime": "오후",
+    "description": "연말 발표회 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
+  },
+  {
+    "id": "P405",
+    "category": "특별행사",
+    "title": "건강 캠페인",
+    "duration": 40,
+    "difficulty": "어려움",
+    "mobility": "가벼운 이동 필요",
+    "materials": [
+      "음악",
+      "장식품",
+      "사진",
+    ],
+    "tags": [
+      "행사",
+      "참여",
+      "추억",
+    ],
+    "recommendedTime": "오후",
+    "description": "건강 캠페인 활동을 통해 즐거운 추억과 공동체 경험을 제공하는 행사 활동"
   },
 ];
