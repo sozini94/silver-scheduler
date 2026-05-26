@@ -32,8 +32,9 @@ export async function POST(req: Request) {
     const filename = encodeURIComponent(
       `${program.title}-활동지.pdf`
     );
+    const body = new Uint8Array(pdfBuffer);
 
-    return new Response(pdfBuffer, {
+    return new Response(body as BodyInit, {
       headers: {
         "Content-Type": "application/pdf",
         "Content-Disposition": `attachment; filename*=UTF-8''${filename}`,
