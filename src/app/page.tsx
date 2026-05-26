@@ -29,8 +29,8 @@ function buildSchedule(params: {
 }
 
 export default function Home() {
-  const [classesPerDay, setClassesPerDay] = useState(3);
-  const [operatingDays, setOperatingDays] = useState(5);
+  const [classesPerDay, setClassesPerDay] = useState(2);
+  const [operatingDays, setOperatingDays] = useState(6);
   const [selectedCategories, setSelectedCategories] = useState<ProgramCategory[]>(['인지', '신체', '정서', '사회성']);
   const [requireDailyPhysical, setRequireDailyPhysical] = useState(true);
   // Hydration mismatch 방지: Math.random()이 들어간 시간표 생성은
