@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { Program } from "@/data/programs";
+import type { Program } from "@/data/programs";
 import { generateWorksheetWithAI } from "@/lib/worksheet-ai";
 import { createWorksheetPdf } from "@/lib/worksheet-pdf";
 
@@ -16,17 +16,16 @@ export async function POST(req: Request) {
       );
     }
 
-    const worksheet =
-        await generateWorksheetWithAI(program);
-
+    const worksheet = await generateWorksheetWithAI(program);
     const pdfBuffer = await createWorksheetPdf(worksheet);
 
     const filename = encodeURIComponent(
       `${program.title}-활동지.pdf`
     );
-    const body = new Uint8Array(pdfBuffer);
 
-    return new Response(body as BodyInit, {
+    const body = new Uint8Array(pdfBuffer) as BodyInit;
+
+    return new Response(body, {
       headers: {
         "Content-Type": "application/pdf",
         "Content-Disposition": `attachment; filename*=UTF-8''${filename}`,
