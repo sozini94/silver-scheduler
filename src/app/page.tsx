@@ -29,7 +29,7 @@ function buildSchedule(params: {
 }
 
 export default function Home() {
-  const [classesPerDay, setClassesPerDay] = useState(2);
+  const [classesPerDay, setClassesPerDay] = useState(1);
   const [operatingDays, setOperatingDays] = useState(6);
   const [selectedCategories, setSelectedCategories] = useState<ProgramCategory[]>(['인지', '신체', '정서', '사회성']);
   const [requireDailyPhysical, setRequireDailyPhysical] = useState(true);
